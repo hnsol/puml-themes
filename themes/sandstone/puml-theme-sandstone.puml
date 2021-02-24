@@ -91,7 +91,7 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Verdana"
+skinparam defaultFontName       "Hiragino Sans"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
