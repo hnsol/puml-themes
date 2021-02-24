@@ -8,6 +8,7 @@
 !$THEME = "sandstone"
 
 !if %not(%variable_exists("$BGCOLOR"))
+'!$BGCOLOR = "#fff"
 !$BGCOLOR = "transparent"
 !endif
 
