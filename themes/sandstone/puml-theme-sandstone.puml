@@ -344,7 +344,8 @@ skinparam object {
 	$primary_scheme()
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $SECONDARY_TEXT
+'	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontColor $DARK
 	AttributeFontSize 11
 }
 !endsub
