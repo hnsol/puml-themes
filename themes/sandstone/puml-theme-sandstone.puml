@@ -4,12 +4,14 @@
 ''
 '' Author: Brett Schwarz
 '' Copyright (c) 2020 by Brett Schwarz
+''
+'' modified by mi
 
 !$THEME = "sandstone"
 
 !if %not(%variable_exists("$BGCOLOR"))
-'!$BGCOLOR = "#fff"
-!$BGCOLOR = "transparent"
+'' !$BGCOLOR = "transparent"
+!$BGCOLOR = "#ddd"
 !endif
 
 skinparam backgroundColor $BGCOLOR
