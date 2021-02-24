@@ -11,7 +11,7 @@
 
 !if %not(%variable_exists("$BGCOLOR"))
 '' !$BGCOLOR = "transparent"
-!$BGCOLOR = "#aaa"
+!$BGCOLOR = "#fff"
 !endif
 
 skinparam backgroundColor $BGCOLOR
@@ -94,7 +94,7 @@ skinparam backgroundColor $BGCOLOR
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
-skinparam shadowing             false
+skinparam shadowing             true
 skinparam roundcorner           8
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
